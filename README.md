@@ -1,0 +1,2 @@
+# Python_MonteCarloSimulations
+Using Python in Jupyter notebooks to run various Monte Carlo simulations including: Using Monte Carlo in a Corporate Finance context, Derivatives and type of derivatives, Applying the Black Scholes formula, Using Monte Carlo for options pricing, &amp; Using Monte Carlo for stock pricing. Each notebook runs several plugins such as pandas, numpy, mattplotlib, and others. 
